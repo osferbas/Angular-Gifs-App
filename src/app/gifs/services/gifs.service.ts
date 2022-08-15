@@ -59,6 +59,6 @@ export class GifsService {
 
 
     
-    console.log(this._historial)
+
   }
 }
